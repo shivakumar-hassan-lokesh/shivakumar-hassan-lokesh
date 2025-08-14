@@ -1,3 +1,8 @@
+<!-- GRADIENT WAVE BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:36BCF7,100:4ECDC4&text=Welcome!&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
+</p>
+
 <!-- HEADER with waving hand GIF -->
 <p align="center">
   <h1>Hi there, I'm Shivakumar Hassan Lokesh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /></h1>
