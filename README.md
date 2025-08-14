@@ -1,51 +1,76 @@
-<!-- ULTRA-CLEAN PREMIUM PROFILE HEADER -->
+<!-- HEADER: Premium wave banner with name -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=180&section=header&text=Shivakumar%20Hassan%20Lokesh&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:36BCF7,100:4ECDC4&text=Shivakumar%20Hassan%20Lokesh&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=60&descAlign=50" />
 </p>
 
+<!-- ANIMATED INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Shivakumar+Hassan+Lokesh+%F0%9F%91%8B;Machine+Learning+%7C+Data+Science+%7C+Generative+AI;Clean+Data+%E2%86%92+Clear+Insights+%E2%86%92+Real+Impact" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Turning+Data+Into+Decisions;Building+Intelligent+Systems;Exploring+Generative+AI+and+LLMs;Transforming+Ideas+Into+Actionable+Insights" alt="Typing SVG" />
 </p>
 
-<!-- BADGES: EMAIL + LINKEDIN -->
+<!-- CONTACT BADGES -->
 <p align="center">
   <a href="mailto:shivakumarhsnlokesh@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-shivakumarhsnlokesh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/shivakumar-hassan-lokesh-8b65ab365/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-I'm **Shivakumar Hassan Lokesh**, a Machine Learning and Data Science enthusiast focused on building practical, production‑ready analytics and ML solutions. I’m passionate about **Data Science**, **Machine Learning**, **Large Language Models (LLMs)**, and **Generative AI**.
-
-I’m currently pursuing my **MS in Data Analytics Engineering** at  
-**[Northeastern University, Boston](https://www.northeastern.edu/)**.
-
----
-
-## 🛠️ Skills
-<!-- Skillicons row (fast, clean, consistent) -->
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pytorch,sqlite,mysql,mongodb,r,tableau,powerbi,plotly,git,github&perline=12" />
-</p>
-
-<!-- Extra badges for tools/icons not covered or to be explicit -->
-<p>
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" />
-  <img alt="MS SQL Server" src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
-  <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
-  <img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white" />
-</p>
+## 🚀 About Me
+- 🎓 **MS in Data Analytics Engineering** at [Northeastern University, Boston](https://www.northeastern.edu/)  
+- 💡 Passionate about **Data Science**, **Machine Learning**, **Large Language Models (LLMs)**, and **Generative AI**  
+- 📊 Experienced in **data analysis, predictive modeling, and building ML pipelines**  
+- 🌍 Applying AI/ML to real-world problems with a focus on **business impact and scalability**  
 
 ---
 
-<!-- Minimal, classy footer wave -->
+## 🛠 Technical Expertise
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pytorch,scipy,pandas,numpy,plotly,r,tableau,powerbi,mysql,mssql,mongodb,excel,ppt&perline=8" />
+</p>
+
+---
+
+## 📂 Highlight Projects
+| Title | Description | Tech Stack |
+|-------|-------------|------------|
+| **Customer Segmentation (RFM)** | Targeted marketing through segmentation | Python, Pandas, Tableau |
+| **EEG Seizure Detection** | Deep learning for medical signal classification | TensorFlow, Keras, NumPy |
+| **Object Detection in Synthetic Environments** | Synthetic dataset generation + YOLOv5 | Python, OpenCV |
+| **End-to-End ETL & Dashboards** | Automated pipeline + Power BI dashboards | SQL, Airflow, Power BI |
+
+> 🔗 Full portfolio available soon!
+
+---
+
+## 📈 GitHub Overview
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivakumarlokesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shivakumarlokesh&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivakumarlokesh&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## 🏆 Achievements & Contributions
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivakumarlokesh&theme=discord&no-frame=true&margin-w=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivakumarlokesh&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:36BCF7,100:4ECDC4" />
 </p>
