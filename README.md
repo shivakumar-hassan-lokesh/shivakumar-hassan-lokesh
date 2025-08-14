@@ -1,4 +1,43 @@
-## 🛠 TECHNICAL SKILLS
+<!-- HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Shivakumar+Hassan+Lokesh+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
+
+<!-- CONTACT BADGES -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivakumar-hassan-lokesh-8b65ab365/" target="_blank">
+    <img alt="LINKEDIN" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &#8287;
+  <a href="mailto:shivakumarhsnlokesh@gmail.com">
+    <img alt="EMAIL" src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a passionate **Data Professional** with strong interests in **Data Science**, **Machine Learning**, **Large Language Models (LLMs)**, and **Generative AI**.  
+
+Currently, I’m advancing my expertise by pursuing an **MS in Data Analytics Engineering** with a concentration in **Machine Learning and Deep Learning** at [Northeastern University, Boston](https://www.northeastern.edu/).  
+
+My professional journey includes impactful roles in data analysis and business intelligence, notably at **E Mech Solutions Pvt. Ltd.** and **TechnoLogics Global Pvt. Ltd.**, where I delivered insights through **data visualization**, **KPI tracking**, and **customer behavior analysis**. These roles allowed me to work with **SQL, Python, Power BI, and Tableau**, building analytical pipelines that transformed raw data into actionable strategies.  
+
+Currently, I’m focused on expanding my portfolio with advanced projects in **machine learning model development**, **ETL pipelines**, and **data visualization dashboards**, aiming to bridge the gap between technical implementation and strategic decision-making.  
+
+During my tenure at E Mech Solutions, I streamlined reporting workflows and enhanced business intelligence systems, while at TechnoLogics Global, I contributed to automating data processes and building performance dashboards, enabling leadership teams to make faster, data-driven decisions.  
+
+With a foundation in **engineering and analytics**, my academic and professional experiences have converged to form a strong capability in **data wrangling**, **predictive modeling**, and **data-driven storytelling**. My hands-on work includes **customer segmentation**, **time-series forecasting**, and **machine learning applications** for business insights.  
+
+Beyond my technical career, I’m passionate about **fitness, sports, and creative problem-solving**, interests that help me maintain a balanced and innovative mindset.  
+
+I welcome opportunities to collaborate on **data-driven projects**, **innovative analytics solutions**, and **AI-powered applications**.  
+Feel free to connect with me at **shivakumarhl1999@gmail.com**.
+
+---
+
+## 🛠 Technical Skills
 <p align="center">
 
   <!-- LANGUAGES & CORE -->
@@ -9,7 +48,7 @@
     <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   </a>
 
- 
+  <br/>
 
   <!-- ML / DS -->
   <a href="https://www.tensorflow.org/" target="_blank">
@@ -34,7 +73,7 @@
     <img alt="PLOTLY" src="https://img.shields.io/badge/PLOTLY-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
   </a>
 
-
+  <br/>
 
   <!-- VIZ / BI -->
   <a href="https://www.tableau.com/" target="_blank">
@@ -44,7 +83,7 @@
     <img alt="POWER BI" src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
   </a>
 
-  
+  <br/>
 
   <!-- DATABASES -->
   <a href="https://www.mysql.com/" target="_blank">
@@ -57,7 +96,7 @@
     <img alt="MONGODB" src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   </a>
 
-
+  <br/>
 
   <!-- PRODUCTIVITY -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
