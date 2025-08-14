@@ -1,13 +1,17 @@
-<p align="center" title="Connect with me">
-  <!-- LINKEDIN -->
-  <a href="https://www.linkedin.com/in/shivakumar-hassan-lokesh-8b65ab365/" target="_blank">
-    <img alt="LINKEDIN"
-      src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&labelColor=111827&logo=linkedin&logoColor=white" />
-  </a>
-  &#8287;
-  <!-- EMAIL -->
-  <a href="mailto:shivakumarhsnlokesh@gmail.com">
-    <img alt="EMAIL"
-      src="https://img.shields.io/badge/EMAIL-Say%20Hi-EA4335?style=for-the-badge&labelColor=111827&logo=gmail&logoColor=white" />
-  </a>
+## 🛠 Technical Skills
+
+<p align="center">
+  <!-- Core Languages & ML Frameworks -->
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pytorch,scipy,pandas,numpy,plotly,r" />
+  <br/>
+  <!-- Visualization & BI -->
+  <img src="https://skillicons.dev/icons?i=tableau,powerbi" />
+  <br/>
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img alt="MS SQL Server" src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <br/>
+  <!-- Productivity -->
+  <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
 </p>
