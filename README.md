@@ -1,18 +1,13 @@
-<p align="center">
-  <!-- LinkedIn -->
+<p align="center" title="Connect with me">
+  <!-- LINKEDIN -->
   <a href="https://www.linkedin.com/in/shivakumar-hassan-lokesh-8b65ab365/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img alt="LINKEDIN"
+      src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&labelColor=111827&logo=linkedin&logoColor=white" />
   </a>
-  <!-- spacer -->
-  &nbsp;&nbsp;
-  <!-- Email -->
+  &#8287;
+  <!-- EMAIL -->
   <a href="mailto:shivakumarhsnlokesh@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
+    <img alt="EMAIL"
+      src="https://img.shields.io/badge/EMAIL-Say%20Hi-EA4335?style=for-the-badge&labelColor=111827&logo=gmail&logoColor=white" />
   </a>
 </p>
