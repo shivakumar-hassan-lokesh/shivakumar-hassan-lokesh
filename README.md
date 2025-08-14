@@ -48,7 +48,7 @@ Feel free to connect with me at **shivakumarhl1999@gmail.com**.
     <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   </a>
 
-  <br/>
+
 
   <!-- ML / DS -->
   <a href="https://www.tensorflow.org/" target="_blank">
@@ -73,7 +73,7 @@ Feel free to connect with me at **shivakumarhl1999@gmail.com**.
     <img alt="PLOTLY" src="https://img.shields.io/badge/PLOTLY-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
   </a>
 
-  <br/>
+ 
 
   <!-- VIZ / BI -->
   <a href="https://www.tableau.com/" target="_blank">
@@ -83,7 +83,7 @@ Feel free to connect with me at **shivakumarhl1999@gmail.com**.
     <img alt="POWER BI" src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
   </a>
 
-  <br/>
+  
 
   <!-- DATABASES -->
   <a href="https://www.mysql.com/" target="_blank">
@@ -96,7 +96,7 @@ Feel free to connect with me at **shivakumarhl1999@gmail.com**.
     <img alt="MONGODB" src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   </a>
 
-  <br/>
+ 
 
   <!-- PRODUCTIVITY -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
