@@ -19,19 +19,17 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Data Professional** with strong interests in **Data Science**, **Machine Learning**, **Large Language Models (LLMs)**, and **Generative AI**.  
+I'm a passionate **Data Professional** with strong interests in **Data Science**, **Machine Learning**, and **Generative AI**.  
 
-Currently, I’m advancing my expertise by pursuing an **MS in Data Analytics Engineering** with a concentration in **Machine Learning and Deep Learning** at [Northeastern University, Boston](https://www.northeastern.edu/).  
+Currently, I’m advancing my expertise by pursuing an **MS in Data Analytics Engineering** at [Northeastern University, Boston](https://www.northeastern.edu/).  
 
-My professional journey includes impactful roles in data analysis and business intelligence, notably at **E Mech Solutions Pvt. Ltd.** and **TechnoLogics Global Pvt. Ltd.**, where I delivered insights through **data visualization**, **KPI tracking**, and **customer behavior analysis**. These roles allowed me to work with **SQL, Python, Power BI, and Tableau**, building analytical pipelines that transformed raw data into actionable strategies.  
+My professional journey includes impactful roles in data analytics and business intelligence, particularly at E-Mech Solutions Pvt. Ltd. and TechnoLogics Global Pvt. Ltd., where I turned complex data into actionable insights through data visualization, KPI tracking, and customer behavior analysis. These experiences strengthened my expertise in Python, SQL, Power BI, and Tableau, enabling me to design efficient data workflows and automated reporting solutions that empowered business teams to make faster, insight-driven decisions. 
 
-Currently, I’m focused on expanding my portfolio with advanced projects in **machine learning model development**, **ETL pipelines**, and **data visualization dashboards**, aiming to bridge the gap between technical implementation and strategic decision-making.  
+Currently, I’m expanding my portfolio through coursework and projects that bridge machine learning operations and generative AI applications.
+In my MLOps course, I’m developing PropBot — an intelligent real estate conversation assistant, where I’m learning to design scalable data pipelines, integrate ChromaDB for vector storage, and deploy LLM-driven APIs with Docker and Airflow.
+Through Applied Generative AI, I’m learning to design and deploy GenAI and Agentic AI applications with LangChain, Streamlit, and Gradio, while gaining hands-on experience in prompt engineering, RAG, and model fine-tuning across supply chain and healthcare use cases.
 
-During my tenure at E Mech Solutions, I streamlined reporting workflows and enhanced business intelligence systems, while at TechnoLogics Global, I contributed to automating data processes and building performance dashboards, enabling leadership teams to make faster, data-driven decisions.  
-
-With a foundation in **engineering and analytics**, my academic and professional experiences have converged to form a strong capability in **data wrangling**, **predictive modeling**, and **data-driven storytelling**. My hands-on work includes **customer segmentation**, **time-series forecasting**, and **machine learning applications** for business insights.  
-
-Beyond my technical career, I’m passionate about **fitness, sports, and creative problem-solving**, interests that help me maintain a balanced and innovative mindset.  
+Beyond my technical career, I’m passionate about fitness and sports, interests that help me maintain a balanced and focused mindset.
 
 I welcome opportunities to collaborate on **data-driven projects**, **innovative analytics solutions**, and **AI-powered applications**.  
 Feel free to connect with me at **shivakumarhsnlokesh@gmail.com**.
