@@ -34,7 +34,7 @@ With a foundation in **engineering and analytics**, my academic and professional
 Beyond my technical career, I’m passionate about **fitness, sports, and creative problem-solving**, interests that help me maintain a balanced and innovative mindset.  
 
 I welcome opportunities to collaborate on **data-driven projects**, **innovative analytics solutions**, and **AI-powered applications**.  
-Feel free to connect with me at **shivakumarhl1999@gmail.com**.
+Feel free to connect with me at **shivakumarhsnlokesh@gmail.com**.
 
 
 
