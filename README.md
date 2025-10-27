@@ -28,10 +28,10 @@ I'm a passionate **Data Professional** with strong interests in **Data Science**
 
 🚀 I’m currently expanding my portfolio through coursework and projects that bridge **Machine Learning Operations (MLOps)** and **Generative AI applications**.  
 
-### 🏗️ **PropBot (MLOps Project)**  
+#### 🏗️ **PropBot (MLOps Project)**  
 Developing an intelligent real estate conversation assistant, where I’m learning to design scalable **data pipelines**, integrate **ChromaDB** for vector storage, and deploy **LLM-driven APIs** using **Docker** and **Airflow**.  
 
-### 🤖 **Applied Generative AI**  
+#### 🤖 **Applied Generative AI**  
 Exploring how to design and deploy **GenAI** and **Agentic AI applications** with **LangChain** and **Streamlit**, while gaining experience in **prompt engineering**, **RAG**, and **model fine-tuning** across **supply chain** and **healthcare** domains.  
 
 💪 Beyond my technical career, I’m passionate about **fitness** and **sports**, interests that help me maintain a balanced and focused mindset.  
