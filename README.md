@@ -32,7 +32,7 @@ I'm a passionate **Data Professional** with strong interests in **Data Science**
 
 #### 🤖 **Applied Generative AI**  - Exploring how to design and deploy **GenAI** and **Agentic AI applications** with **LangChain** and **Streamlit**, while gaining experience in **prompt engineering**, **RAG**, and **model fine-tuning** across **supply chain** and **healthcare** domains.  
 
-💪 Beyond my technical career, I’m passionate about **fitness** and **sports**, interests that help me maintain a balanced and focused mindset.  
+Outside of data and dashboards, you’ll find me at the gym or on the cricket field — still chasing perfect form, whether it’s a clean dataset or a straight drive. 🏋️‍♂️🏏
 
 🤝 I welcome opportunities to collaborate on **data-driven projects**, **innovative analytics solutions**, and **AI-powered applications**.  
 📧 Feel free to connect with me at **shivakumarhsnlokesh@gmail.com**.
