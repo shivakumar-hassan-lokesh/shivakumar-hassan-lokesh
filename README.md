@@ -24,15 +24,13 @@ I'm a passionate **Data Professional** with strong interests in **Data Science**
 
 🎓 Currently, I’m advancing my expertise by pursuing an **MS in Data Analytics Engineering** at **Northeastern University, Boston**.  
 
-💼 My professional journey includes impactful roles in **data analytics** and **business intelligence**, particularly at **E-Mech Solutions Pvt. Ltd.** and **TechnoLogics Global Pvt. Ltd.**, where I turned complex data into actionable insights through **data visualization**, **KPI tracking**, and **customer behavior analysis**. These experiences strengthened my expertise in **Python**, **SQL**, **Power BI**, and **Tableau**, enabling me to design efficient **data workflows** and **automated reporting solutions** that empowered business teams to make faster, insight-driven decisions.  
+💼 My professional journey includes impactful role in **data analytics** and **business intelligence**, particularly at **E-Mech Solutions Pvt. Ltd.**, where I turned complex data into actionable insights through **data visualization**, **KPI tracking**, and **customer behavior analysis**. These experiences strengthened my expertise in **Python**, **SQL**, **Power BI**, and **Tableau**, enabling me to design efficient **data workflows** and **automated reporting solutions** that empowered business teams to make faster, insight-driven decisions.  
 
 🚀 I’m currently expanding my portfolio through coursework and projects that bridge **Machine Learning Operations (MLOps)** and **Generative AI applications**.  
 
-#### 🏗️ **PropBot (MLOps Project)**  
-Developing an intelligent real estate conversation assistant, where I’m learning to design scalable **data pipelines**, integrate **ChromaDB** for vector storage, and deploy **LLM-driven APIs** using **Docker** and **Airflow**.  
+#### 🏗️ **PropBot (MLOps Project)**  - Developing an intelligent real estate conversation assistant, where I’m learning to design scalable **data pipelines**, integrate **ChromaDB** for vector storage, and deploy **LLM-driven APIs** using **Docker** and **Airflow**.  
 
-#### 🤖 **Applied Generative AI**  
-Exploring how to design and deploy **GenAI** and **Agentic AI applications** with **LangChain** and **Streamlit**, while gaining experience in **prompt engineering**, **RAG**, and **model fine-tuning** across **supply chain** and **healthcare** domains.  
+#### 🤖 **Applied Generative AI**  - Exploring how to design and deploy **GenAI** and **Agentic AI applications** with **LangChain** and **Streamlit**, while gaining experience in **prompt engineering**, **RAG**, and **model fine-tuning** across **supply chain** and **healthcare** domains.  
 
 💪 Beyond my technical career, I’m passionate about **fitness** and **sports**, interests that help me maintain a balanced and focused mindset.  
 
