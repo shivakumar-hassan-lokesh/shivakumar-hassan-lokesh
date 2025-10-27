@@ -17,7 +17,7 @@
 
 
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
 
 I'm a passionate **Data Professional** with strong interests in **Data Science**, **Machine Learning**, and **Generative AI**.  
@@ -40,7 +40,7 @@ I'm a passionate **Data Professional** with strong interests in **Data Science**
 
 
 
-## 🛠 Technical Skills
+### 🛠 Technical Skills
 <p align="center">
 
   <!-- LANGUAGES & CORE -->
